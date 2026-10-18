@@ -1,0 +1,200 @@
+{
+ "version": 1,
+ "dur": 27.2,
+ "bgm": null,
+ "sfx": [
+  {
+   "t": 1.07,
+   "name": "box_tap",
+   "role": "impact",
+   "gain": 0.6,
+   "group": "쿵 · 착지",
+   "desc": "종이 상자 툭 (가볍게 놓기)"
+  },
+  {
+   "t": 1.4,
+   "name": "woodblock",
+   "role": "enter",
+   "gain": 0.35,
+   "group": "톡 · 등장",
+   "desc": "나무 톡 (깔끔한 등장 · 목록)"
+  },
+  {
+   "t": 3.175,
+   "name": "air_swoosh",
+   "role": "cut",
+   "gain": 0.42,
+   "group": "휙 · 전환",
+   "desc": "공기 가르는 휙 (두 겹 · 높이가 내려가며)"
+  },
+  {
+   "t": 3.55,
+   "name": "woodblock",
+   "role": "tick",
+   "gain": 0.18,
+   "group": "톡 · 등장",
+   "desc": "나무 톡 (깔끔한 등장 · 목록)"
+  },
+  {
+   "t": 3.69,
+   "name": "woodblock",
+   "role": "tick",
+   "gain": 0.18,
+   "group": "톡 · 등장",
+   "desc": "나무 톡 (깔끔한 등장 · 목록)"
+  },
+  {
+   "t": 3.83,
+   "name": "woodblock",
+   "role": "tick",
+   "gain": 0.18,
+   "group": "톡 · 등장",
+   "desc": "나무 톡 (깔끔한 등장 · 목록)"
+  },
+  {
+   "t": 3.97,
+   "name": "claves",
+   "role": "tick",
+   "gain": 0.18,
+   "group": "톡 · 등장",
+   "desc": "클라베스 딱 (또렷한 한 점)"
+  },
+  {
+   "t": 4.11,
+   "name": "claves",
+   "role": "tick",
+   "gain": 0.18,
+   "group": "톡 · 등장",
+   "desc": "클라베스 딱 (또렷한 한 점)"
+  },
+  {
+   "t": 4.25,
+   "name": "claves",
+   "role": "tick",
+   "gain": 0.18,
+   "group": "톡 · 등장",
+   "desc": "클라베스 딱 (또렷한 한 점)"
+  },
+  {
+   "t": 5.1,
+   "name": "bubble_pop",
+   "role": "emph",
+   "gain": 0.45,
+   "group": "톡 · 등장",
+   "desc": "물방울 퐁 (말랑한 팝)"
+  },
+  {
+   "t": 6.975,
+   "name": "air_swoosh",
+   "role": "cut",
+   "gain": 0.42,
+   "group": "휙 · 전환",
+   "desc": "공기 가르는 휙 (두 겹 · 높이가 내려가며)"
+  },
+  {
+   "t": 10.55,
+   "name": "air_swoosh",
+   "role": "cut",
+   "gain": 0.5,
+   "group": "휙 · 전환",
+   "desc": "공기 가르는 휙 (두 겹 · 높이가 내려가며)"
+  },
+  {
+   "t": 11.4,
+   "name": "woodblock",
+   "role": "enter",
+   "gain": 0.35,
+   "group": "톡 · 등장",
+   "desc": "나무 톡 (깔끔한 등장 · 목록)"
+  },
+  {
+   "t": 12.5,
+   "name": "woodblock",
+   "role": "enter",
+   "gain": 0.35,
+   "group": "톡 · 등장",
+   "desc": "나무 톡 (깔끔한 등장 · 목록)"
+  },
+  {
+   "t": 13.5,
+   "name": "marimba_blip",
+   "role": "enter",
+   "gain": 0.35,
+   "group": "톡 · 등장",
+   "desc": "마림바 똑 (부드러운 등장)"
+  },
+  {
+   "t": 15.75,
+   "name": "card_flick",
+   "role": "cut",
+   "gain": 0.42,
+   "group": "휙 · 전환",
+   "desc": "카드 휙 넘김 (짧은 종이 바람)"
+  },
+  {
+   "t": 16.25,
+   "name": "woodblock",
+   "role": "tick",
+   "gain": 0.4,
+   "group": "톡 · 등장",
+   "desc": "나무 톡 (깔끔한 등장 · 목록)"
+  },
+  {
+   "t": 16.85,
+   "name": "woodblock",
+   "role": "tick",
+   "gain": 0.4,
+   "group": "톡 · 등장",
+   "desc": "나무 톡 (깔끔한 등장 · 목록)"
+  },
+  {
+   "t": 17.45,
+   "name": "woodblock",
+   "role": "tick",
+   "gain": 0.4,
+   "group": "톡 · 등장",
+   "desc": "나무 톡 (깔끔한 등장 · 목록)"
+  },
+  {
+   "t": 18.7,
+   "name": "bubble_pop",
+   "role": "emph",
+   "gain": 0.4,
+   "group": "톡 · 등장",
+   "desc": "물방울 퐁 (말랑한 팝)"
+  },
+  {
+   "t": 19.775,
+   "name": "card_flick",
+   "role": "cut",
+   "gain": 0.42,
+   "group": "휙 · 전환",
+   "desc": "카드 휙 넘김 (짧은 종이 바람)"
+  },
+  {
+   "t": 24.2,
+   "name": "box_tap",
+   "role": "impact",
+   "gain": 0.75,
+   "group": "쿵 · 착지",
+   "desc": "종이 상자 툭 (가볍게 놓기)"
+  },
+  {
+   "t": 24.9,
+   "name": "bubble_pop",
+   "role": "emph",
+   "gain": 0.4,
+   "group": "톡 · 등장",
+   "desc": "물방울 퐁 (말랑한 팝)"
+  },
+  {
+   "t": 26.0,
+   "name": "success_marimba",
+   "role": "done",
+   "gain": 0.5,
+   "group": "완성 · 짜잔",
+   "desc": "마림바 딩동댕 (성공 · 정답)"
+  }
+ ],
+ "voices": []
+}
