@@ -33,6 +33,20 @@ KIT = '팝'
 K = kit.load(KIT)
 
 
+_shoot = camera.shoot
+
+
+def _inside(img, c, out=None, **kw):
+    """카메라가 아트보드 밖을 보지 않게 (가장자리 색이 띠로 비치지 않게) — 기울기 없는 카메라만"""
+    w, h = img.size; hw, hh = W / (2 * c.z), H / (2 * c.z)
+    if not c.rot and hw <= w / 2 and hh <= h / 2:
+        c = camera.Cam(min(max(c.cx, hw), w - hw), min(max(c.cy, hh), h - hh), c.z, c.rot)
+    return _shoot(img, c, out, **kw)
+
+
+camera.shoot = _inside
+
+
 def static(key, root, els):
     """다 나온 뒤 안 바뀌는 바탕 층은 한 번만 그린다 (굽기 속도)"""
     def mk():
