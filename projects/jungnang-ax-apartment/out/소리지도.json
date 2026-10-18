@@ -1,0 +1,8284 @@
+{
+ "version": 1,
+ "dur": 24.0,
+ "bgm": {
+  "style": "경쾌 팝",
+  "seed": 3,
+  "bpm": 113,
+  "beats": 4,
+  "bar_sec": 2.1239,
+  "beat_sec": 0.531,
+  "mode": "major",
+  "key": 2,
+  "key_name": "D",
+  "progression": [
+   3,
+   4,
+   2,
+   5
+  ],
+  "swing": 0,
+  "sections": [
+   {
+    "t0": 0,
+    "t1": 1.1,
+    "energy": 3
+   },
+   {
+    "t0": 1.1,
+    "t1": 7.2,
+    "energy": 2
+   },
+   {
+    "t0": 7.2,
+    "t1": 16.6,
+    "energy": 3
+   },
+   {
+    "t0": 16.6,
+    "t1": 21.0,
+    "energy": 2
+   },
+   {
+    "t0": 21.0,
+    "t1": 24.0,
+    "energy": 1
+   }
+  ],
+  "hits": [
+   0,
+   21.0
+  ],
+  "bars": [
+   {
+    "i": 0,
+    "t": 0.0,
+    "energy": 3,
+    "chord": [
+     2,
+     7,
+     11
+    ],
+    "degree": 3,
+    "first": true,
+    "fill": true,
+    "last": false
+   },
+   {
+    "i": 1,
+    "t": 2.124,
+    "energy": 2,
+    "chord": [
+     1,
+     4,
+     9
+    ],
+    "degree": 4,
+    "first": true,
+    "fill": false,
+    "last": false
+   },
+   {
+    "i": 2,
+    "t": 4.248,
+    "energy": 2,
+    "chord": [
+     1,
+     6,
+     9
+    ],
+    "degree": 2,
+    "first": false,
+    "fill": true,
+    "last": false
+   },
+   {
+    "i": 3,
+    "t": 6.372,
+    "energy": 3,
+    "chord": [
+     2,
+     6,
+     11
+    ],
+    "degree": 5,
+    "first": true,
+    "fill": false,
+    "last": false
+   },
+   {
+    "i": 4,
+    "t": 8.496,
+    "energy": 3,
+    "chord": [
+     2,
+     7,
+     11
+    ],
+    "degree": 3,
+    "first": false,
+    "fill": false,
+    "last": false
+   },
+   {
+    "i": 5,
+    "t": 10.619,
+    "energy": 3,
+    "chord": [
+     1,
+     4,
+     9
+    ],
+    "degree": 4,
+    "first": false,
+    "fill": false,
+    "last": false
+   },
+   {
+    "i": 6,
+    "t": 12.743,
+    "energy": 3,
+    "chord": [
+     1,
+     6,
+     9
+    ],
+    "degree": 2,
+    "first": false,
+    "fill": false,
+    "last": false
+   },
+   {
+    "i": 7,
+    "t": 14.867,
+    "energy": 3,
+    "chord": [
+     2,
+     6,
+     11
+    ],
+    "degree": 5,
+    "first": false,
+    "fill": true,
+    "last": false
+   },
+   {
+    "i": 8,
+    "t": 16.991,
+    "energy": 2,
+    "chord": [
+     2,
+     7,
+     11
+    ],
+    "degree": 3,
+    "first": true,
+    "fill": false,
+    "last": false
+   },
+   {
+    "i": 9,
+    "t": 19.115,
+    "energy": 2,
+    "chord": [
+     1,
+     4,
+     9
+    ],
+    "degree": 4,
+    "first": false,
+    "fill": true,
+    "last": false
+   },
+   {
+    "i": 10,
+    "t": 21.239,
+    "energy": 1,
+    "chord": [
+     2,
+     6,
+     9
+    ],
+    "degree": 0,
+    "first": true,
+    "fill": false,
+    "last": true
+   },
+   {
+    "i": 11,
+    "t": 23.363,
+    "energy": 1,
+    "chord": [
+     2,
+     6,
+     9
+    ],
+    "degree": 0,
+    "first": false,
+    "fill": false,
+    "last": true
+   }
+  ],
+  "instruments": {
+   "bass": {
+    "bank": 0,
+    "prog": 33,
+    "name": "Finger Bass"
+   },
+   "comp": {
+    "bank": 0,
+    "prog": 4,
+    "name": "Tine Electric Piano"
+   },
+   "lead": {
+    "bank": 0,
+    "prog": 12,
+    "name": "Marimba"
+   },
+   "pad": {
+    "bank": 0,
+    "prog": 89,
+    "name": "Warm Pad"
+   },
+   "extra": {
+    "bank": 0,
+    "prog": 9,
+    "name": "Glockenspiel"
+   },
+   "drums": {
+    "bank": 128,
+    "prog": 0,
+    "name": "Standard 1"
+   }
+  },
+  "notes": [
+   {
+    "t": 0,
+    "dur": 0.223,
+    "key": 31,
+    "vel": 106,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 0,
+    "dur": 0.8,
+    "key": 38,
+    "vel": 115,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 0,
+    "dur": 0.8,
+    "key": 42,
+    "vel": 115,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 0,
+    "dur": 0.8,
+    "key": 45,
+    "vel": 115,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 0,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 72,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0,
+    "dur": 2.1027,
+    "key": 50,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0,
+    "dur": 2.1027,
+    "key": 55,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0,
+    "dur": 2.1027,
+    "key": 59,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 114,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 0,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 90,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 0,
+    "dur": 0.1,
+    "key": 49,
+    "vel": 120,
+    "role": "drums",
+    "drum": "심벌"
+   },
+   {
+    "t": 0,
+    "dur": 0.1,
+    "key": 35,
+    "vel": 120,
+    "role": "drums",
+    "drum": "큰북2"
+   },
+   {
+    "t": 0,
+    "dur": 1.0619,
+    "key": 79,
+    "vel": 81,
+    "role": "extra",
+    "drum": null
+   },
+   {
+    "t": 0.0067,
+    "dur": 0.1,
+    "key": 49,
+    "vel": 103,
+    "role": "drums",
+    "drum": "심벌"
+   },
+   {
+    "t": 0.0067,
+    "dur": 0.3664,
+    "key": 79,
+    "vel": 96,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 0.0069,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 56,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 0.0107,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 71,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0.0258,
+    "dur": 0.2389,
+    "key": 55,
+    "vel": 83,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0.0266,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 83,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0.0453,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 80,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0.0497,
+    "dur": 0.2389,
+    "key": 67,
+    "vel": 71,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0.0556,
+    "dur": 1.0619,
+    "key": 83,
+    "vel": 81,
+    "role": "extra",
+    "drum": null
+   },
+   {
+    "t": 0.125,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 86,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 0.1253,
+    "dur": 1.0619,
+    "key": 74,
+    "vel": 81,
+    "role": "extra",
+    "drum": null
+   },
+   {
+    "t": 0.1306,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 56,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 0.2649,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 47,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 0.2705,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 89,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 0.2727,
+    "dur": 0.223,
+    "key": 31,
+    "vel": 91,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 0.3926,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 84,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 0.4052,
+    "dur": 0.3664,
+    "key": 85,
+    "vel": 98,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 0.4058,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 52,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 0.5232,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 105,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 0.5242,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 81,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 0.5279,
+    "dur": 0.223,
+    "key": 31,
+    "vel": 94,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 0.5287,
+    "dur": 0.1,
+    "key": 39,
+    "vel": 105,
+    "role": "drums",
+    "drum": "박수"
+   },
+   {
+    "t": 0.5336,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 50,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 0.5377,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 63,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0.5476,
+    "dur": 0.2389,
+    "key": 55,
+    "vel": 57,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0.5491,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 67,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0.5637,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 56,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0.5694,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 61,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0.5875,
+    "dur": 0.2389,
+    "key": 67,
+    "vel": 56,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0.6625,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 55,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 0.6677,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 94,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 0.7908,
+    "dur": 0.223,
+    "key": 43,
+    "vel": 87,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 0.7927,
+    "dur": 0.2389,
+    "key": 67,
+    "vel": 42,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0.7983,
+    "dur": 0.2442,
+    "key": 83,
+    "vel": 89,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 0.7997,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 92,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 0.8013,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 48,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 0.8113,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 44,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0.8225,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 46,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0.8345,
+    "dur": 0.2389,
+    "key": 55,
+    "vel": 39,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0.8456,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 53,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0.8491,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 48,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 0.9241,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 51,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 0.9269,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 91,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 1.0573,
+    "dur": 0.4885,
+    "key": 79,
+    "vel": 94,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 1.0636,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 89,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 1.0643,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 45,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 1.0646,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 118,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 1.0673,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 81,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 1.0686,
+    "dur": 0.223,
+    "key": 31,
+    "vel": 101,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 1.1885,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 57,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 1.1961,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 85,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 1.3212,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 91,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 1.3228,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 87,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 1.3247,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 55,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 1.3255,
+    "dur": 0.223,
+    "key": 31,
+    "vel": 92,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 1.3332,
+    "dur": 0.2389,
+    "key": 67,
+    "vel": 59,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 1.3362,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 53,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 1.355,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 47,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 1.3628,
+    "dur": 0.2389,
+    "key": 55,
+    "vel": 56,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 1.3742,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 55,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 1.3752,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 50,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 1.4562,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 53,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 1.4591,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 92,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 1.5851,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 86,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 1.5858,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 106,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 1.5925,
+    "dur": 0.1,
+    "key": 39,
+    "vel": 111,
+    "role": "drums",
+    "drum": "박수"
+   },
+   {
+    "t": 1.5945,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 1.5975,
+    "dur": 0.223,
+    "key": 31,
+    "vel": 103,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 1.5989,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 55,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 1.599,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 116,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 1.6002,
+    "dur": 0.4885,
+    "key": 79,
+    "vel": 89,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 1.6118,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 1.612,
+    "dur": 0.2389,
+    "key": 55,
+    "vel": 62,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 1.6265,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 1.6388,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 59,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 1.6442,
+    "dur": 0.2389,
+    "key": 67,
+    "vel": 65,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 1.723,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 81,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 1.7251,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 90,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 1.7262,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 46,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 1.8507,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 48,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 1.8514,
+    "dur": 0.223,
+    "key": 43,
+    "vel": 84,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 1.8604,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 91,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 1.8613,
+    "dur": 0.2389,
+    "key": 67,
+    "vel": 45,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 1.8653,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 89,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 1.8655,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 119,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 1.8736,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 53,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 1.8831,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 50,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 1.8844,
+    "dur": 0.2389,
+    "key": 55,
+    "vel": 48,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 1.8994,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 39,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 1.9059,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 44,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 1.987,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 116,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 1.9918,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 54,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 1.9991,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 94,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 2.1169,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 85,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.1188,
+    "dur": 0.1,
+    "key": 49,
+    "vel": 95,
+    "role": "drums",
+    "drum": "심벌"
+   },
+   {
+    "t": 2.1195,
+    "dur": 0.223,
+    "key": 33,
+    "vel": 99,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 2.1207,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 52,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 2.1239,
+    "dur": 2.1027,
+    "key": 49,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.1239,
+    "dur": 2.1027,
+    "key": 52,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.1239,
+    "dur": 2.1027,
+    "key": 57,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.124,
+    "dur": 0.2442,
+    "key": 81,
+    "vel": 101,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 2.1254,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 109,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 2.1318,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 91,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 2.1362,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 85,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.1443,
+    "dur": 0.2389,
+    "key": 52,
+    "vel": 74,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.1639,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 85,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.1663,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 76,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.182,
+    "dur": 0.2389,
+    "key": 64,
+    "vel": 75,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.2529,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 88,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 2.2604,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 58,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 2.3885,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 49,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 2.396,
+    "dur": 0.4885,
+    "key": 79,
+    "vel": 88,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 2.3961,
+    "dur": 0.223,
+    "key": 33,
+    "vel": 88,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 2.3962,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 94,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 2.5154,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 47,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 2.521,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 84,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 2.6478,
+    "dur": 0.223,
+    "key": 33,
+    "vel": 98,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 2.6535,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 53,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 2.655,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 83,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 2.6593,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 113,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 2.6606,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 112,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 2.6614,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 55,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.6715,
+    "dur": 0.2389,
+    "key": 52,
+    "vel": 56,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.6736,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 60,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.6868,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 61,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.7004,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 64,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.7098,
+    "dur": 0.2389,
+    "key": 64,
+    "vel": 55,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.7821,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 53,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 2.7869,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 89,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 2.9142,
+    "dur": 0.2442,
+    "key": 83,
+    "vel": 85,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 2.9171,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 52,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 2.9193,
+    "dur": 0.223,
+    "key": 45,
+    "vel": 90,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 2.9248,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 82,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 2.9273,
+    "dur": 0.2389,
+    "key": 64,
+    "vel": 43,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.9382,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 45,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.9414,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 46,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.9473,
+    "dur": 0.2389,
+    "key": 52,
+    "vel": 52,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.9668,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 47,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 2.9769,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 51,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 3.0532,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 82,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 3.056,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 51,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 3.1839,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 93,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 3.1882,
+    "dur": 0.223,
+    "key": 33,
+    "vel": 104,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 3.1913,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 48,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 3.192,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 118,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 3.1932,
+    "dur": 0.4885,
+    "key": 85,
+    "vel": 94,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 3.3174,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 82,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 3.3211,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 52,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 3.4495,
+    "dur": 0.2389,
+    "key": 64,
+    "vel": 61,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 3.4514,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 52,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 3.4536,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 82,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 3.4574,
+    "dur": 0.223,
+    "key": 33,
+    "vel": 88,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 3.4629,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 51,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 3.4725,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 59,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 3.4768,
+    "dur": 0.2389,
+    "key": 52,
+    "vel": 57,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 3.4945,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 49,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 3.5125,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 59,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 3.5777,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 83,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 3.5852,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 48,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 3.7088,
+    "dur": 0.2442,
+    "key": 85,
+    "vel": 86,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 3.711,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 106,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 3.713,
+    "dur": 0.223,
+    "key": 33,
+    "vel": 106,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 3.7149,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 69,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 3.716,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 112,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 3.7161,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 45,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 3.7178,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 83,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 3.7202,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 72,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 3.7358,
+    "dur": 0.2389,
+    "key": 52,
+    "vel": 63,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 3.7534,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 67,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 3.7664,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 64,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 3.7755,
+    "dur": 0.2389,
+    "key": 64,
+    "vel": 69,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 3.8425,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 52,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 3.8574,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 95,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 3.9763,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 82,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 3.979,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 51,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 3.979,
+    "dur": 0.2442,
+    "key": 85,
+    "vel": 95,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 3.9827,
+    "dur": 0.223,
+    "key": 45,
+    "vel": 86,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 3.9829,
+    "dur": 0.2389,
+    "key": 64,
+    "vel": 50,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 3.9864,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 84,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 3.9976,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 42,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 3.9977,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 39,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 4.0075,
+    "dur": 0.2389,
+    "key": 52,
+    "vel": 41,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 4.0252,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 40,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 4.0336,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 43,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 4.111,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 59,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 4.1183,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 87,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 4.2429,
+    "dur": 0.223,
+    "key": 30,
+    "vel": 101,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 4.2431,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 94,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 4.2445,
+    "dur": 0.3664,
+    "key": 85,
+    "vel": 96,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 4.2475,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 114,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 4.2478,
+    "dur": 2.1027,
+    "key": 49,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 4.2478,
+    "dur": 2.1027,
+    "key": 54,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 4.2478,
+    "dur": 2.1027,
+    "key": 57,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 4.2483,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 46,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 4.2508,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 76,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 4.2588,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 73,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 4.2749,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 82,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 4.2756,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 73,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 4.2929,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 76,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 4.2992,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 71,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 4.3746,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 89,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 4.3876,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 55,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 4.5075,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 59,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 4.5146,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 81,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 4.518,
+    "dur": 0.223,
+    "key": 30,
+    "vel": 97,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 4.6421,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 95,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 4.6438,
+    "dur": 0.3664,
+    "key": 90,
+    "vel": 96,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 4.645,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 49,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 4.7736,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 112,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 4.7737,
+    "dur": 0.223,
+    "key": 30,
+    "vel": 107,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 4.781,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 59,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 4.783,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 53,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 4.7834,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 94,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 4.7948,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 57,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 4.8013,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 60,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 4.8124,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 57,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 4.8173,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 56,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 4.8278,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 60,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 4.9038,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 52,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 4.9041,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 93,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 5.0373,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 53,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 5.0409,
+    "dur": 0.2442,
+    "key": 88,
+    "vel": 91,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 5.0452,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 83,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 5.046,
+    "dur": 0.223,
+    "key": 42,
+    "vel": 88,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 5.0521,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 54,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 5.0527,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 49,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 5.0588,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 47,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 5.0748,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 39,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 5.0848,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 50,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 5.1036,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 52,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 5.1696,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 94,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 5.1733,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 45,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 5.3051,
+    "dur": 0.223,
+    "key": 30,
+    "vel": 99,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 5.3098,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 94,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 5.3112,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 48,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 5.3117,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 108,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 5.3129,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 87,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 5.3163,
+    "dur": 0.4885,
+    "key": 85,
+    "vel": 96,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 5.4395,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 56,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 5.4421,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 84,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 5.5678,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 94,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 5.5687,
+    "dur": 0.223,
+    "key": 30,
+    "vel": 93,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 5.5708,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 57,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 5.5708,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 94,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 5.5722,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 59,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 5.5905,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 50,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 5.5978,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 55,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 5.6104,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 61,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 5.627,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 53,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 5.634,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 49,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 5.7028,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 81,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 5.7052,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 51,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 5.8329,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 55,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 5.8337,
+    "dur": 0.223,
+    "key": 30,
+    "vel": 96,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 5.8338,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 115,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 5.837,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 73,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 5.8379,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 115,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 5.8379,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 81,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 5.8405,
+    "dur": 0.4885,
+    "key": 85,
+    "vel": 86,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 5.8573,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 68,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 5.8622,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 67,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 5.8817,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 64,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 5.8832,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 68,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 5.8945,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 73,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 5.9786,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 91,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 5.9794,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 84,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 5.981,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 54,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 6.1042,
+    "dur": 0.223,
+    "key": 42,
+    "vel": 93,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 6.1043,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 87,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 6.1094,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 105,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 6.1111,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 42,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.1114,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 57,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 6.114,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 95,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 6.1175,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 49,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.132,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 46,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.1425,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 47,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.1477,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 39,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.1595,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 53,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.2357,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 115,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 6.2422,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 57,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 6.2457,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 93,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 6.3652,
+    "dur": 0.223,
+    "key": 35,
+    "vel": 93,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 6.3668,
+    "dur": 0.1,
+    "key": 49,
+    "vel": 99,
+    "role": "drums",
+    "drum": "심벌"
+   },
+   {
+    "t": 6.3694,
+    "dur": 0.2442,
+    "key": 83,
+    "vel": 99,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 6.3717,
+    "dur": 2.1027,
+    "key": 50,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.3717,
+    "dur": 2.1027,
+    "key": 54,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.3717,
+    "dur": 2.1027,
+    "key": 59,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.3722,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 82,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 6.3727,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 76,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.3749,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 118,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 6.3768,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 80,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.3787,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 51,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 6.379,
+    "dur": 1.0619,
+    "key": 83,
+    "vel": 81,
+    "role": "extra",
+    "drum": null
+   },
+   {
+    "t": 6.3921,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 81,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.4117,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 73,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.412,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 80,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.4243,
+    "dur": 1.0619,
+    "key": 74,
+    "vel": 86,
+    "role": "extra",
+    "drum": null
+   },
+   {
+    "t": 6.4302,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 85,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.4918,
+    "dur": 1.0619,
+    "key": 78,
+    "vel": 83,
+    "role": "extra",
+    "drum": null
+   },
+   {
+    "t": 6.4981,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 82,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 6.5007,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 53,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 6.6305,
+    "dur": 0.223,
+    "key": 35,
+    "vel": 93,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 6.6358,
+    "dur": 0.4885,
+    "key": 81,
+    "vel": 98,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 6.6376,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 86,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 6.6413,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 55,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 6.7624,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 54,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 6.7657,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 89,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 6.8972,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 116,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 6.8985,
+    "dur": 0.223,
+    "key": 35,
+    "vel": 107,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 6.901,
+    "dur": 0.1,
+    "key": 39,
+    "vel": 111,
+    "role": "drums",
+    "drum": "박수"
+   },
+   {
+    "t": 6.9046,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 51,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 6.9056,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 116,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 6.9068,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 86,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 6.9073,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 59,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.9078,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 56,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.9285,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 55,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.9346,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 63,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.9534,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 65,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 6.9541,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 56,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 7.032,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 58,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 7.0356,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 90,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 7.1609,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 91,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 7.163,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 58,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 7.1653,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 51,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 7.171,
+    "dur": 0.2442,
+    "key": 85,
+    "vel": 97,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 7.1744,
+    "dur": 0.223,
+    "key": 47,
+    "vel": 91,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 7.1764,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 49,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 7.1849,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 40,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 7.2022,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 51,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 7.2123,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 48,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 7.2179,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 41,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 7.3053,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 87,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 7.3064,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 57,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 7.4285,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 88,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 7.4319,
+    "dur": 0.223,
+    "key": 35,
+    "vel": 100,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 7.4342,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 117,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 7.4369,
+    "dur": 0.4885,
+    "key": 86,
+    "vel": 98,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 7.4374,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 58,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 7.5672,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 81,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 7.5721,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 47,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 7.6917,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 49,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 7.6993,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 50,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 7.6998,
+    "dur": 0.223,
+    "key": 35,
+    "vel": 90,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 7.7003,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 85,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 7.7154,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 53,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 7.7207,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 59,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 7.7252,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 58,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 7.7443,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 54,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 7.7469,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 60,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 7.8278,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 91,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 7.8279,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 57,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 7.9575,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 111,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 7.9594,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 69,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 7.9628,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 110,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 7.9634,
+    "dur": 0.1,
+    "key": 39,
+    "vel": 115,
+    "role": "drums",
+    "drum": "박수"
+   },
+   {
+    "t": 7.9652,
+    "dur": 0.223,
+    "key": 35,
+    "vel": 99,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 7.9656,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 92,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 7.966,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 55,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 7.9685,
+    "dur": 0.2442,
+    "key": 86,
+    "vel": 85,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 7.9711,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 59,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 7.9918,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 8.0028,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 63,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 8.0046,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 66,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 8.021,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 71,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 8.1004,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 54,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 8.1033,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 82,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 8.2223,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 92,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 8.223,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 53,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 8.2273,
+    "dur": 0.223,
+    "key": 47,
+    "vel": 97,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 8.2301,
+    "dur": 0.2442,
+    "key": 86,
+    "vel": 94,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 8.2342,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 94,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 8.2353,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 55,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 8.2375,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 53,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 8.253,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 47,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 8.2583,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 52,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 8.2735,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 53,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 8.2927,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 47,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 8.3646,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 50,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 8.3649,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 89,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 8.4956,
+    "dur": 2.1027,
+    "key": 50,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 8.4956,
+    "dur": 2.1027,
+    "key": 55,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 8.4956,
+    "dur": 2.1027,
+    "key": 59,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 8.4967,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 83,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 8.4971,
+    "dur": 0.2442,
+    "key": 83,
+    "vel": 100,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 8.4987,
+    "dur": 0.223,
+    "key": 31,
+    "vel": 105,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 8.5001,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 58,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 8.5014,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 106,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 8.5021,
+    "dur": 1.0619,
+    "key": 79,
+    "vel": 77,
+    "role": "extra",
+    "drum": null
+   },
+   {
+    "t": 8.5029,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 92,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 8.5048,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 78,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 8.5158,
+    "dur": 0.2389,
+    "key": 55,
+    "vel": 73,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 8.5224,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 83,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 8.5468,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 78,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 8.5526,
+    "dur": 0.2389,
+    "key": 67,
+    "vel": 81,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 8.5581,
+    "dur": 1.0619,
+    "key": 83,
+    "vel": 85,
+    "role": "extra",
+    "drum": null
+   },
+   {
+    "t": 8.6218,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 59,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 8.6222,
+    "dur": 1.0619,
+    "key": 74,
+    "vel": 83,
+    "role": "extra",
+    "drum": null
+   },
+   {
+    "t": 8.6321,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 95,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 8.7574,
+    "dur": 0.223,
+    "key": 31,
+    "vel": 91,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 8.7601,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 90,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 8.7668,
+    "dur": 0.4885,
+    "key": 78,
+    "vel": 93,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 8.7673,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 48,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 8.8937,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 59,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 8.9012,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 87,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 9.0194,
+    "dur": 0.223,
+    "key": 31,
+    "vel": 93,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 9.0212,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 67,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 9.0246,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 85,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 9.028,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 113,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 9.0294,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 112,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 9.0316,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 58,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 9.0337,
+    "dur": 0.1,
+    "key": 39,
+    "vel": 110,
+    "role": "drums",
+    "drum": "박수"
+   },
+   {
+    "t": 9.0422,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 58,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 9.0463,
+    "dur": 0.2389,
+    "key": 55,
+    "vel": 67,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 9.0641,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 56,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 9.0778,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 55,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 9.0854,
+    "dur": 0.2389,
+    "key": 67,
+    "vel": 64,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 9.16,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 45,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 9.1608,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 94,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 9.2843,
+    "dur": 0.2442,
+    "key": 79,
+    "vel": 94,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 9.2846,
+    "dur": 0.223,
+    "key": 43,
+    "vel": 95,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 9.2851,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 51,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 9.2879,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 84,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 9.2994,
+    "dur": 0.2389,
+    "key": 67,
+    "vel": 47,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 9.3099,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 44,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 9.3163,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 48,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 9.3218,
+    "dur": 0.2389,
+    "key": 55,
+    "vel": 41,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 9.3389,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 40,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 9.3434,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 43,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 9.4182,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 90,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 9.4191,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 54,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 9.5501,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 105,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 9.5517,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 85,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 9.5529,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 52,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 9.5563,
+    "dur": 0.4885,
+    "key": 83,
+    "vel": 96,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 9.5571,
+    "dur": 0.223,
+    "key": 31,
+    "vel": 101,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 9.6871,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 50,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 9.6946,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 89,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 9.8196,
+    "dur": 0.223,
+    "key": 31,
+    "vel": 86,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 9.8212,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 93,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 9.8235,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 57,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 9.8294,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 49,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 9.8305,
+    "dur": 0.2389,
+    "key": 67,
+    "vel": 53,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 9.8383,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 51,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 9.8481,
+    "dur": 0.2389,
+    "key": 55,
+    "vel": 47,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 9.8639,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 54,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 9.8787,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 61,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 9.9491,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 50,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 9.9571,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 84,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 10.0808,
+    "dur": 0.1,
+    "key": 39,
+    "vel": 116,
+    "role": "drums",
+    "drum": "박수"
+   },
+   {
+    "t": 10.0823,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 47,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 10.0829,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 108,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 10.0829,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 82,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 10.084,
+    "dur": 0.223,
+    "key": 31,
+    "vel": 101,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 10.0877,
+    "dur": 0.2442,
+    "key": 83,
+    "vel": 88,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 10.0878,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 66,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.0931,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 115,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 10.1055,
+    "dur": 0.2389,
+    "key": 55,
+    "vel": 68,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.1069,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 72,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.1185,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 72,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.1268,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 73,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.1433,
+    "dur": 0.2389,
+    "key": 67,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.2136,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 91,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 10.2246,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 59,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 10.3517,
+    "dur": 0.223,
+    "key": 43,
+    "vel": 95,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 10.3532,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 85,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 10.3537,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 59,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 10.3575,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 85,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 10.3594,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 46,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.3602,
+    "dur": 0.2442,
+    "key": 79,
+    "vel": 94,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 10.3618,
+    "dur": 0.2389,
+    "key": 67,
+    "vel": 49,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.3771,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 42,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.3853,
+    "dur": 0.2389,
+    "key": 55,
+    "vel": 41,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.3941,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 44,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.4161,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 44,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.4882,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 46,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 10.4925,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 81,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 10.6187,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 91,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 10.6195,
+    "dur": 2.1027,
+    "key": 49,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.6195,
+    "dur": 2.1027,
+    "key": 52,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.6195,
+    "dur": 2.1027,
+    "key": 57,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.6206,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 107,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 10.6222,
+    "dur": 0.2442,
+    "key": 81,
+    "vel": 99,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 10.6232,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 72,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.6254,
+    "dur": 0.223,
+    "key": 33,
+    "vel": 101,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 10.6273,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 54,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 10.6296,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 73,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.6397,
+    "dur": 0.2389,
+    "key": 52,
+    "vel": 84,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.6513,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 82,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.666,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 80,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.6804,
+    "dur": 0.2389,
+    "key": 64,
+    "vel": 81,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 10.7447,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 56,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 10.7499,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 81,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 10.8779,
+    "dur": 0.223,
+    "key": 33,
+    "vel": 95,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 10.8832,
+    "dur": 0.4885,
+    "key": 83,
+    "vel": 98,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 10.8856,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 85,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 10.8897,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 55,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 11.0166,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 56,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 11.0172,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 85,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 11.1451,
+    "dur": 0.1,
+    "key": 39,
+    "vel": 115,
+    "role": "drums",
+    "drum": "박수"
+   },
+   {
+    "t": 11.1498,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 67,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 11.1527,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 107,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 11.1535,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 89,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 11.1541,
+    "dur": 0.223,
+    "key": 33,
+    "vel": 103,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 11.1552,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 112,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 11.1555,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 56,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 11.1569,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 57,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 11.1766,
+    "dur": 0.2389,
+    "key": 52,
+    "vel": 67,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 11.1871,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 64,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 11.199,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 66,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 11.2126,
+    "dur": 0.2389,
+    "key": 64,
+    "vel": 69,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 11.281,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 51,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 11.2887,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 95,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 11.4095,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 55,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 11.4139,
+    "dur": 0.2442,
+    "key": 79,
+    "vel": 93,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 11.415,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 86,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 11.4183,
+    "dur": 0.223,
+    "key": 45,
+    "vel": 97,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 11.4195,
+    "dur": 0.2389,
+    "key": 64,
+    "vel": 45,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 11.4313,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 40,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 11.4334,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 52,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 11.4433,
+    "dur": 0.2389,
+    "key": 52,
+    "vel": 49,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 11.4573,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 52,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 11.4655,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 46,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 11.5414,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 87,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 11.5478,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 54,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 11.6762,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 45,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 11.6782,
+    "dur": 0.4885,
+    "key": 76,
+    "vel": 92,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 11.6822,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 106,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 11.6828,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 95,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 11.6881,
+    "dur": 0.223,
+    "key": 33,
+    "vel": 99,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 11.817,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 90,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 11.8216,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 53,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 11.9439,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 87,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 11.9442,
+    "dur": 0.223,
+    "key": 33,
+    "vel": 84,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 11.9445,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 47,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 11.9509,
+    "dur": 0.2389,
+    "key": 64,
+    "vel": 53,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 11.9595,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 47,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 11.9762,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 50,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 11.9832,
+    "dur": 0.2389,
+    "key": 52,
+    "vel": 54,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 11.9951,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 60,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.0044,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 61,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.0802,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 50,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 12.0804,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 83,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 12.2063,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 108,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 12.2082,
+    "dur": 0.2442,
+    "key": 76,
+    "vel": 96,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 12.2127,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 63,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.2139,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 118,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 12.2144,
+    "dur": 0.223,
+    "key": 33,
+    "vel": 98,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 12.2157,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 63,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.2187,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 90,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 12.2188,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 48,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 12.2194,
+    "dur": 0.1,
+    "key": 39,
+    "vel": 110,
+    "role": "drums",
+    "drum": "박수"
+   },
+   {
+    "t": 12.2381,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 69,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.2418,
+    "dur": 0.2389,
+    "key": 52,
+    "vel": 68,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.2529,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 73,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.2705,
+    "dur": 0.2389,
+    "key": 64,
+    "vel": 67,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.3433,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 58,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 12.3465,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 84,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 12.4706,
+    "dur": 0.2442,
+    "key": 76,
+    "vel": 94,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 12.4708,
+    "dur": 0.2389,
+    "key": 64,
+    "vel": 53,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.4723,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 88,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 12.4742,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 81,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 12.4769,
+    "dur": 0.223,
+    "key": 45,
+    "vel": 83,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 12.4819,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 49,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 12.4853,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 47,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.4948,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 52,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.5165,
+    "dur": 0.2389,
+    "key": 52,
+    "vel": 45,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.5258,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 47,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.538,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 47,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.6148,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 87,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 12.6157,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 53,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 12.737,
+    "dur": 0.223,
+    "key": 30,
+    "vel": 104,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 12.7416,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 48,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 12.7416,
+    "dur": 0.3664,
+    "key": 81,
+    "vel": 104,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 12.7434,
+    "dur": 2.1027,
+    "key": 49,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.7434,
+    "dur": 2.1027,
+    "key": 54,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.7434,
+    "dur": 2.1027,
+    "key": 57,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.7436,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 113,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 12.7462,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 81,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 12.7503,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 79,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.7525,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 77,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.7667,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 74,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.7821,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 78,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.7831,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 83,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.8057,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 72,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 12.874,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 49,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 12.8786,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 85,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 13.005,
+    "dur": 0.223,
+    "key": 30,
+    "vel": 83,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 13.0063,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 86,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 13.016,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 49,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 13.1347,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 88,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 13.1377,
+    "dur": 0.3664,
+    "key": 86,
+    "vel": 89,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 13.1404,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 51,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 13.2671,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 109,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 13.2753,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 114,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 13.2753,
+    "dur": 0.1,
+    "key": 39,
+    "vel": 105,
+    "role": "drums",
+    "drum": "박수"
+   },
+   {
+    "t": 13.2758,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 53,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 13.2762,
+    "dur": 0.223,
+    "key": 30,
+    "vel": 98,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 13.2788,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 55,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 13.2804,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 95,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 13.2856,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 57,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 13.3001,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 68,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 13.3025,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 69,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 13.3105,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 67,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 13.3333,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 59,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 13.408,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 51,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 13.4121,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 89,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 13.5331,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 52,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 13.5355,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 91,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 13.5363,
+    "dur": 0.2442,
+    "key": 85,
+    "vel": 89,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 13.5391,
+    "dur": 0.223,
+    "key": 42,
+    "vel": 87,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 13.5432,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 50,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 13.5453,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 52,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 13.5671,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 43,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 13.569,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 43,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 13.5826,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 53,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 13.5892,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 40,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 13.6786,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 52,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 13.6792,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 84,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 13.7997,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 88,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 13.8028,
+    "dur": 0.223,
+    "key": 30,
+    "vel": 97,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 13.8029,
+    "dur": 0.4885,
+    "key": 81,
+    "vel": 85,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 13.8067,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 109,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 13.809,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 59,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 13.9346,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 88,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 13.944,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 57,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 14.0633,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 49,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 14.0713,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 91,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 14.0744,
+    "dur": 0.223,
+    "key": 30,
+    "vel": 93,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 14.0765,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 61,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.0774,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 58,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.0958,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 47,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.1025,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 59,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.1213,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 50,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.1293,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 50,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.2045,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 52,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 14.2052,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 94,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 14.3297,
+    "dur": 0.4885,
+    "key": 81,
+    "vel": 96,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 14.3318,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 111,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 14.335,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 71,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.3352,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 83,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 14.3354,
+    "dur": 0.1,
+    "key": 39,
+    "vel": 110,
+    "role": "drums",
+    "drum": "박수"
+   },
+   {
+    "t": 14.3397,
+    "dur": 0.223,
+    "key": 30,
+    "vel": 105,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 14.3407,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 107,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 14.3409,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 46,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 14.3432,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 59,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.3595,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 69,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.3687,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 72,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.3762,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 72,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.3987,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 65,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.4646,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 56,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 14.4669,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 91,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 14.5953,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 58,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 14.5965,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 86,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 14.5976,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 52,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.5981,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 86,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 14.6069,
+    "dur": 0.223,
+    "key": 42,
+    "vel": 86,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 14.6179,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 39,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.6278,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 50,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.6367,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 50,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.6504,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 41,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.6534,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 44,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.7269,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 88,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 14.7421,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 45,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 14.8626,
+    "dur": 0.223,
+    "key": 35,
+    "vel": 96,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 14.8635,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 119,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 14.8639,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 92,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 14.8673,
+    "dur": 2.1027,
+    "key": 50,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.8673,
+    "dur": 2.1027,
+    "key": 54,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.8673,
+    "dur": 2.1027,
+    "key": 59,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.8683,
+    "dur": 0.4885,
+    "key": 83,
+    "vel": 102,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 14.8698,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 84,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.8715,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 55,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 14.8802,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 73,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.8865,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 77,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.8927,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 71,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.9153,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 77,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.9286,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 76,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 14.9956,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 55,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 15.0046,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 88,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 15.1281,
+    "dur": 0.223,
+    "key": 35,
+    "vel": 90,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 15.1286,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 49,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 15.1323,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 81,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 15.2583,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 93,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 15.2606,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 59,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 15.3912,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 86,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 15.3919,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 45,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 15.3951,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 113,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 15.3956,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 57,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 15.4029,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 63,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 15.4032,
+    "dur": 0.223,
+    "key": 35,
+    "vel": 101,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 15.4049,
+    "dur": 0.1,
+    "key": 39,
+    "vel": 113,
+    "role": "drums",
+    "drum": "박수"
+   },
+   {
+    "t": 15.4059,
+    "dur": 1.4655,
+    "key": 83,
+    "vel": 87,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 15.4126,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 55,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 15.4239,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 65,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 15.4473,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 63,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 15.4517,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 68,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 15.5238,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 58,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 15.5325,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 94,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 15.66,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 89,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 15.6601,
+    "dur": 0.223,
+    "key": 47,
+    "vel": 97,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 15.6636,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 46,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 15.666,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 49,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 15.6672,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 44,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 15.6895,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 51,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 15.6974,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 41,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 15.7025,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 45,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 15.7109,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 53,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 15.8024,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 45,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 15.8039,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 87,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 15.9217,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 88,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 15.9243,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 93,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 15.9253,
+    "dur": 0.223,
+    "key": 35,
+    "vel": 105,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 15.9271,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 55,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 15.9292,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 112,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 16.0555,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 48,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 16.064,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 88,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 16.1882,
+    "dur": 0.223,
+    "key": 35,
+    "vel": 90,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 16.189,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 87,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 16.1931,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 95,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 16.1939,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 49,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 16.1973,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 54,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.2085,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 55,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.2134,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 58,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.2335,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 53,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.2422,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 47,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.2531,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 51,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.3246,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 94,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 16.3297,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 59,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 16.4534,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 94,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 16.4534,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 105,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 16.4549,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 64,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.4571,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 55,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 16.4626,
+    "dur": 0.1,
+    "key": 39,
+    "vel": 112,
+    "role": "drums",
+    "drum": "박수"
+   },
+   {
+    "t": 16.4652,
+    "dur": 0.223,
+    "key": 35,
+    "vel": 101,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 16.468,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 105,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 16.4707,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 64,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.481,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 69,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.4917,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 68,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.5055,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 60,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.5079,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 69,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.5889,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 87,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 16.5903,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 82,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 16.5916,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 50,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 16.722,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 49,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 16.7245,
+    "dur": 0.2389,
+    "key": 66,
+    "vel": 52,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.7266,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 83,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 16.7312,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 90,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 16.7313,
+    "dur": 0.223,
+    "key": 47,
+    "vel": 85,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 16.7326,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 116,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 16.7422,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 43,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.7428,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 47,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.7509,
+    "dur": 0.2389,
+    "key": 54,
+    "vel": 46,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.7742,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 51,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.7789,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 52,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.8505,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 93,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 16.8582,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 105,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 16.8609,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 46,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 16.9836,
+    "dur": 0.1,
+    "key": 49,
+    "vel": 99,
+    "role": "drums",
+    "drum": "심벌"
+   },
+   {
+    "t": 16.9846,
+    "dur": 0.3664,
+    "key": 79,
+    "vel": 101,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 16.9857,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 48,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 16.9876,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 85,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.9882,
+    "dur": 0.223,
+    "key": 31,
+    "vel": 104,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 16.9912,
+    "dur": 2.1027,
+    "key": 50,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.9912,
+    "dur": 2.1027,
+    "key": 55,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.9912,
+    "dur": 2.1027,
+    "key": 59,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 16.9926,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 118,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 16.9931,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 88,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 17.0064,
+    "dur": 0.2389,
+    "key": 55,
+    "vel": 84,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 17.0096,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 84,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 17.0172,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 77,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 17.03,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 84,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 17.0413,
+    "dur": 0.2389,
+    "key": 67,
+    "vel": 76,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 17.1202,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 81,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 17.1269,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 53,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 17.2515,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 90,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 17.2533,
+    "dur": 0.223,
+    "key": 31,
+    "vel": 85,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 17.264,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 49,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 17.3909,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 92,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 17.3943,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 46,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 17.397,
+    "dur": 0.3664,
+    "key": 85,
+    "vel": 94,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 17.5169,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 112,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 17.5173,
+    "dur": 0.223,
+    "key": 31,
+    "vel": 100,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 17.5194,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 84,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 17.5214,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 61,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 17.5275,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 109,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 17.5292,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 50,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 17.5325,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 56,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 17.5451,
+    "dur": 0.2389,
+    "key": 55,
+    "vel": 65,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 17.5589,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 64,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 17.5715,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 61,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 17.5759,
+    "dur": 0.2389,
+    "key": 67,
+    "vel": 63,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 17.6512,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 91,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 17.6586,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 45,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 17.7807,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 51,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 17.7821,
+    "dur": 0.2442,
+    "key": 83,
+    "vel": 99,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 17.7858,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 92,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 17.7951,
+    "dur": 0.2389,
+    "key": 67,
+    "vel": 50,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 17.7955,
+    "dur": 0.223,
+    "key": 43,
+    "vel": 93,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 17.8012,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 44,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 17.8136,
+    "dur": 0.2389,
+    "key": 55,
+    "vel": 48,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 17.8166,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 43,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 17.8333,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 43,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 17.8395,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 50,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 17.9145,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 54,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 17.9229,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 83,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 18.0498,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 56,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 18.0531,
+    "dur": 0.4885,
+    "key": 79,
+    "vel": 88,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 18.0538,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 82,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 18.0567,
+    "dur": 0.223,
+    "key": 31,
+    "vel": 104,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 18.0606,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 112,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 18.1851,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 45,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 18.1863,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 85,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 18.3123,
+    "dur": 0.2389,
+    "key": 67,
+    "vel": 48,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 18.3129,
+    "dur": 0.223,
+    "key": 31,
+    "vel": 84,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 18.3188,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 88,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 18.3215,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 51,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 18.3357,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 59,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 18.3407,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 50,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 18.354,
+    "dur": 0.2389,
+    "key": 55,
+    "vel": 50,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 18.363,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 53,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 18.3789,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 59,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 18.4495,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 46,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 18.4523,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 92,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 18.5761,
+    "dur": 0.223,
+    "key": 31,
+    "vel": 104,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 18.5764,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 82,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 18.5779,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 109,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 18.5804,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 71,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 18.5868,
+    "dur": 0.4885,
+    "key": 79,
+    "vel": 92,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 18.5871,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 47,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 18.591,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 106,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 18.598,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 69,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 18.6115,
+    "dur": 0.2389,
+    "key": 55,
+    "vel": 65,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 18.621,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 60,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 18.6265,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 71,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 18.6364,
+    "dur": 0.2389,
+    "key": 67,
+    "vel": 60,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 18.7122,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 91,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 18.7184,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 47,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 18.8445,
+    "dur": 0.223,
+    "key": 43,
+    "vel": 86,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 18.8462,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 82,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 18.8527,
+    "dur": 0.2389,
+    "key": 62,
+    "vel": 40,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 18.8548,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 91,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 18.8549,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 57,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 18.8575,
+    "dur": 0.2389,
+    "key": 67,
+    "vel": 41,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 18.8744,
+    "dur": 0.2389,
+    "key": 59,
+    "vel": 43,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 18.8855,
+    "dur": 0.2389,
+    "key": 55,
+    "vel": 49,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 18.8981,
+    "dur": 0.2389,
+    "key": 50,
+    "vel": 48,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 18.9094,
+    "dur": 0.2389,
+    "key": 38,
+    "vel": 44,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 18.983,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 57,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 18.9889,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 85,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 19.1087,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 118,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 19.1109,
+    "dur": 0.2442,
+    "key": 81,
+    "vel": 97,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 19.1126,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 84,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 19.1129,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 53,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 19.115,
+    "dur": 2.1027,
+    "key": 49,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.115,
+    "dur": 2.1027,
+    "key": 52,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.115,
+    "dur": 2.1027,
+    "key": 57,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.1206,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 76,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.1227,
+    "dur": 0.223,
+    "key": 33,
+    "vel": 104,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 19.1306,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 85,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.1437,
+    "dur": 0.2389,
+    "key": 52,
+    "vel": 85,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.1482,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 77,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.1524,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 78,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.1717,
+    "dur": 0.2389,
+    "key": 64,
+    "vel": 72,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.2407,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 45,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 19.2454,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 84,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 19.3815,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 56,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 19.385,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 85,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 19.3857,
+    "dur": 0.223,
+    "key": 33,
+    "vel": 92,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 19.3882,
+    "dur": 0.4885,
+    "key": 79,
+    "vel": 95,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 19.5066,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 85,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 19.5149,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 50,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 19.6401,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 118,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 19.6455,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 57,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 19.6475,
+    "dur": 0.223,
+    "key": 33,
+    "vel": 98,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 19.6499,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 83,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 19.6532,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 60,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.654,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 66,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.6641,
+    "dur": 0.2389,
+    "key": 52,
+    "vel": 55,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.6741,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 60,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.6875,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 61,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.6948,
+    "dur": 0.2389,
+    "key": 64,
+    "vel": 65,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.7735,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 51,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 19.7795,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 82,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 19.904,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 84,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 19.9069,
+    "dur": 0.2389,
+    "key": 64,
+    "vel": 52,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.91,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 53,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 19.9153,
+    "dur": 0.223,
+    "key": 45,
+    "vel": 92,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 19.9185,
+    "dur": 0.2442,
+    "key": 83,
+    "vel": 92,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 19.9222,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 43,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.9405,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 45,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.9414,
+    "dur": 0.2389,
+    "key": 52,
+    "vel": 46,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.9594,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 45,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 19.9665,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 52,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 20.0447,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 92,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 20.0501,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 49,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 20.1706,
+    "dur": 0.223,
+    "key": 33,
+    "vel": 95,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 20.1715,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 93,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 20.1721,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 113,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 20.1735,
+    "dur": 0.4885,
+    "key": 85,
+    "vel": 91,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 20.1813,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 94,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 20.1837,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 54,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 20.3067,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 83,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 20.3164,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 55,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 20.4395,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 54,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 20.4411,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 91,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 20.4451,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 86,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 20.4455,
+    "dur": 0.223,
+    "key": 33,
+    "vel": 86,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 20.4469,
+    "dur": 0.2389,
+    "key": 64,
+    "vel": 59,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 20.4554,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 50,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 20.4597,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 58,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 20.4726,
+    "dur": 0.2389,
+    "key": 52,
+    "vel": 59,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 20.4858,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 53,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 20.5024,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 58,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 20.5716,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 90,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 20.5824,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 52,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 20.703,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 112,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 20.7048,
+    "dur": 0.223,
+    "key": 33,
+    "vel": 96,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 20.7095,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 109,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 20.7104,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 73,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 20.7126,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 87,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 20.713,
+    "dur": 0.2442,
+    "key": 85,
+    "vel": 88,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 20.7144,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 54,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 20.7168,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 61,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 20.7365,
+    "dur": 0.2389,
+    "key": 52,
+    "vel": 63,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 20.7379,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 61,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 20.7556,
+    "dur": 0.2389,
+    "key": 64,
+    "vel": 61,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 20.7585,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 73,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 20.8362,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 57,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 20.8387,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 83,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 20.8444,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 83,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 20.9663,
+    "dur": 0.223,
+    "key": 45,
+    "vel": 88,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 20.9719,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 59,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 20.9722,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 89,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 20.9725,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 112,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 20.9761,
+    "dur": 0.2442,
+    "key": 85,
+    "vel": 94,
+    "role": "lead",
+    "drum": null
+   },
+   {
+    "t": 20.9768,
+    "dur": 0.2389,
+    "key": 64,
+    "vel": 52,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 20.9806,
+    "dur": 0.1,
+    "key": 36,
+    "vel": 94,
+    "role": "drums",
+    "drum": "킥"
+   },
+   {
+    "t": 20.9821,
+    "dur": 0.2389,
+    "key": 61,
+    "vel": 45,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 20.9979,
+    "dur": 0.2389,
+    "key": 57,
+    "vel": 43,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 21.0,
+    "dur": 0.8,
+    "key": 38,
+    "vel": 115,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 21.0,
+    "dur": 0.8,
+    "key": 42,
+    "vel": 115,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 21.0,
+    "dur": 0.8,
+    "key": 45,
+    "vel": 115,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 21.0,
+    "dur": 0.2389,
+    "key": 52,
+    "vel": 46,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 21.0,
+    "dur": 0.1,
+    "key": 49,
+    "vel": 120,
+    "role": "drums",
+    "drum": "심벌"
+   },
+   {
+    "t": 21.0,
+    "dur": 0.1,
+    "key": 35,
+    "vel": 120,
+    "role": "drums",
+    "drum": "큰북2"
+   },
+   {
+    "t": 21.0157,
+    "dur": 0.2389,
+    "key": 49,
+    "vel": 46,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 21.0328,
+    "dur": 0.2389,
+    "key": 37,
+    "vel": 43,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 21.1006,
+    "dur": 0.1,
+    "key": 42,
+    "vel": 53,
+    "role": "drums",
+    "drum": "하이햇"
+   },
+   {
+    "t": 21.103,
+    "dur": 0.1,
+    "key": 38,
+    "vel": 119,
+    "role": "drums",
+    "drum": "스네어"
+   },
+   {
+    "t": 21.1093,
+    "dur": 0.1,
+    "key": 70,
+    "vel": 92,
+    "role": "drums",
+    "drum": "셰이커"
+   },
+   {
+    "t": 21.2389,
+    "dur": 4.2478,
+    "key": 50,
+    "vel": 80,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 21.2389,
+    "dur": 4.2478,
+    "key": 66,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 21.2389,
+    "dur": 4.2478,
+    "key": 69,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 21.2389,
+    "dur": 4.2478,
+    "key": 50,
+    "vel": 80,
+    "role": "pad",
+    "drum": null
+   },
+   {
+    "t": 21.2389,
+    "dur": 4.2478,
+    "key": 66,
+    "vel": 70,
+    "role": "pad",
+    "drum": null
+   },
+   {
+    "t": 21.2389,
+    "dur": 4.2478,
+    "key": 69,
+    "vel": 70,
+    "role": "pad",
+    "drum": null
+   },
+   {
+    "t": 21.2443,
+    "dur": 0.223,
+    "key": 26,
+    "vel": 96,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 21.5057,
+    "dur": 0.223,
+    "key": 26,
+    "vel": 79,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 21.7627,
+    "dur": 0.223,
+    "key": 26,
+    "vel": 93,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 22.0372,
+    "dur": 0.223,
+    "key": 26,
+    "vel": 75,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 22.303,
+    "dur": 0.223,
+    "key": 26,
+    "vel": 99,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 22.5666,
+    "dur": 0.223,
+    "key": 26,
+    "vel": 83,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 22.8338,
+    "dur": 0.223,
+    "key": 26,
+    "vel": 89,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 23.0976,
+    "dur": 0.223,
+    "key": 26,
+    "vel": 79,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 23.3628,
+    "dur": 4.2478,
+    "key": 50,
+    "vel": 80,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 23.3628,
+    "dur": 4.2478,
+    "key": 66,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 23.3628,
+    "dur": 4.2478,
+    "key": 69,
+    "vel": 70,
+    "role": "comp",
+    "drum": null
+   },
+   {
+    "t": 23.3628,
+    "dur": 4.2478,
+    "key": 50,
+    "vel": 80,
+    "role": "pad",
+    "drum": null
+   },
+   {
+    "t": 23.3628,
+    "dur": 4.2478,
+    "key": 66,
+    "vel": 70,
+    "role": "pad",
+    "drum": null
+   },
+   {
+    "t": 23.3628,
+    "dur": 4.2478,
+    "key": 69,
+    "vel": 70,
+    "role": "pad",
+    "drum": null
+   },
+   {
+    "t": 23.3635,
+    "dur": 0.1,
+    "key": 49,
+    "vel": 92,
+    "role": "drums",
+    "drum": "심벌"
+   },
+   {
+    "t": 23.3691,
+    "dur": 0.223,
+    "key": 26,
+    "vel": 97,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 23.6259,
+    "dur": 0.223,
+    "key": 26,
+    "vel": 86,
+    "role": "bass",
+    "drum": null
+   },
+   {
+    "t": 23.8899,
+    "dur": 0.223,
+    "key": 26,
+    "vel": 85,
+    "role": "bass",
+    "drum": null
+   }
+  ]
+ },
+ "sfx": [
+  {
+   "t": 1.12,
+   "name": "box_tap",
+   "role": "impact",
+   "gain": 0.6,
+   "group": "쿵 · 착지",
+   "desc": "종이 상자 툭 (가볍게 놓기)"
+  },
+  {
+   "t": 1.45,
+   "name": "woodblock",
+   "role": "enter",
+   "gain": 0.35,
+   "group": "톡 · 등장",
+   "desc": "나무 톡 (깔끔한 등장 · 목록)"
+  },
+  {
+   "t": 3.35,
+   "name": "air_swoosh",
+   "role": "cut",
+   "gain": 0.45,
+   "group": "휙 · 전환",
+   "desc": "공기 가르는 휙 (두 겹 · 높이가 내려가며)"
+  },
+  {
+   "t": 6.95,
+   "name": "air_swoosh",
+   "role": "cut",
+   "gain": 0.45,
+   "group": "휙 · 전환",
+   "desc": "공기 가르는 휙 (두 겹 · 높이가 내려가며)"
+  },
+  {
+   "t": 7.8,
+   "name": "woodblock",
+   "role": "enter",
+   "gain": 0.35,
+   "group": "톡 · 등장",
+   "desc": "나무 톡 (깔끔한 등장 · 목록)"
+  },
+  {
+   "t": 8.9,
+   "name": "woodblock",
+   "role": "enter",
+   "gain": 0.35,
+   "group": "톡 · 등장",
+   "desc": "나무 톡 (깔끔한 등장 · 목록)"
+  },
+  {
+   "t": 9.9,
+   "name": "marimba_blip",
+   "role": "enter",
+   "gain": 0.35,
+   "group": "톡 · 등장",
+   "desc": "마림바 똑 (부드러운 등장)"
+  },
+  {
+   "t": 12.175,
+   "name": "air_swoosh",
+   "role": "cut",
+   "gain": 0.45,
+   "group": "휙 · 전환",
+   "desc": "공기 가르는 휙 (두 겹 · 높이가 내려가며)"
+  },
+  {
+   "t": 13.55,
+   "name": "woodblock",
+   "role": "tick",
+   "gain": 0.4,
+   "group": "톡 · 등장",
+   "desc": "나무 톡 (깔끔한 등장 · 목록)"
+  },
+  {
+   "t": 13.95,
+   "name": "woodblock",
+   "role": "tick",
+   "gain": 0.4,
+   "group": "톡 · 등장",
+   "desc": "나무 톡 (깔끔한 등장 · 목록)"
+  },
+  {
+   "t": 14.35,
+   "name": "woodblock",
+   "role": "tick",
+   "gain": 0.4,
+   "group": "톡 · 등장",
+   "desc": "나무 톡 (깔끔한 등장 · 목록)"
+  },
+  {
+   "t": 14.95,
+   "name": "bubble_pop",
+   "role": "emph",
+   "gain": 0.4,
+   "group": "톡 · 등장",
+   "desc": "물방울 퐁 (말랑한 팝)"
+  },
+  {
+   "t": 16.375,
+   "name": "card_flick",
+   "role": "cut",
+   "gain": 0.45,
+   "group": "휙 · 전환",
+   "desc": "카드 휙 넘김 (짧은 종이 바람)"
+  },
+  {
+   "t": 21.0,
+   "name": "box_tap",
+   "role": "impact",
+   "gain": 0.75,
+   "group": "쿵 · 착지",
+   "desc": "종이 상자 툭 (가볍게 놓기)"
+  },
+  {
+   "t": 21.7,
+   "name": "bubble_pop",
+   "role": "emph",
+   "gain": 0.4,
+   "group": "톡 · 등장",
+   "desc": "물방울 퐁 (말랑한 팝)"
+  },
+  {
+   "t": 22.8,
+   "name": "success_marimba",
+   "role": "done",
+   "gain": 0.5,
+   "group": "완성 · 짜잔",
+   "desc": "마림바 딩동댕 (성공 · 정답)"
+  }
+ ],
+ "voices": []
+}
